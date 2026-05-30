@@ -40,7 +40,7 @@ body {
 
 .subgenre {
     display: grid;
-    width: 2200px;
+    width: 2300px;
     grid-template-columns: 1460px 1fr;
     grid-template-rows: fit-content(80px) 1fr;
     gap: 20px;
