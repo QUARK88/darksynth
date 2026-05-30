@@ -8,8 +8,9 @@ async function loadSubgenres() {
     function createAlbums(albumsData, titles, insertSeparator) {
         let albums = document.createElement("div")
         albums.className = "albums"
-        let titleCount = 0
-        for (const [albumName, albumLink] of Object.entries(albumsData)) {
+        let entries = Object.entries(albumsData)
+        for (let i = 0; i < entries.length; i++) {
+            let [albumName, albumLink] = entries[i]
             let album = document.createElement("a")
             album.className = "album"
             album.title = albumName
@@ -21,18 +22,15 @@ async function loadSubgenres() {
             t.className = "titlesTitle"
             t.textContent = albumName
             titles.appendChild(t)
-            titleCount++
-            if (titleCount % 7 === 0) {
+            if ((i + 1) % 7 === 0 && i < entries.length - 1) {
                 let spacer = document.createElement("div")
                 spacer.className = "titlesTitle"
-                spacer.textContent = ""
                 titles.appendChild(spacer)
             }
         }
         if (insertSeparator) {
             let sep = document.createElement("div")
             sep.className = "titlesTitle"
-            sep.textContent = ""
             titles.appendChild(sep)
         }
         return albums
@@ -60,13 +58,18 @@ async function loadSubgenres() {
         content.className = "content"
         let titles = document.createElement("div")
         titles.className = "titles"
-        content.appendChild(createAlbums(subgenreData[1], titles, true))
+        content.appendChild(createAlbums(subgenreData[1], titles, subgenreData.length > 2))
         for (let i = 2; i < subgenreData.length; i += 2) {
             let subtitle = document.createElement("div")
             subtitle.className = "subtitle"
             subtitle.textContent = subgenreData[i]
             content.appendChild(subtitle)
             content.appendChild(createAlbums(subgenreData[i + 1], titles, false))
+            if (i < subgenreData.length - 2) {
+                let sep = document.createElement("div")
+                sep.className = "titlesTitle"
+                titles.appendChild(sep)
+            }
         }
         subgenre.appendChild(info)
         subgenre.appendChild(content)

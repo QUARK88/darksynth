@@ -20,58 +20,306 @@
     ],
     "Cybersynth": [
         "Heavy synth music with a cybernetic, robotic sound. There are three general styles. Music that focuses on deep and intense layering (Mega Drive, Steel Force), blistering speed and rapid transformations (North Exit), and more emotional and narrative music (3FORCE, Roborg). Most of these bands mix these techniques in various formulations.",
-        {}
+        {
+            "Mega Drive - 200X AD": "",
+            "Fixions - Sleepwatcher": "",
+            "Roborg - CyberCrime": "",
+            "3FORCE - Crossfire": "",
+            "North Exit - Rabid Technology": "",
+            "Vulta - Swarm": "",
+            "Speed Machine - Dystopian System": "",
+            "Microchip Terror - Illegal Experiments": "",
+            "Dawnrazer - Moodscrolling": "",
+            "Neuromancer - Hardwired": "",
+            "Mangadrive - Botrun": "",
+            "Irving Force - Godmode": "",
+            "Steel Force - Blackwall": "",
+            "DreamReaper - Liminality": "",
+            "Dan Terminus - Gothic Engine": "",
+            "LukHash - Virtual Burnout": "",
+            "Neodyne Project - Revenge of the Machines": "",
+            "Rokai - Delimitation": "https://open.spotify.com/album/6cDEmvvXbU45sjNxljTf4B",
+            "Spaceinvader - Mortal": "",
+            "Advection Stride - Guardian": "https://open.spotify.com/album/5vLvzx7pzJOFwdo4LQAwm2",
+            "Toxxify - Sector 11": "",
+            "Death Selektor - Biomechanical Era": "",
+            "Second Solstice - Ultima": "",
+            "Turboslash - Ions": "",
+            "Murkula - Repent in Tech": "",
+            "FX Machine - Cyber World": "",
+            "Ulyssio - Arachnophony": "",
+            "Kick Puncher - LiveDieRepeat": ""
+        }
     ],
     "Cyberpunk": [
         "Futuristic synth music with an attitude and \"high tech, low living\" themes. Compared to Cybersynth, this is music more connected to the human rather than the cybernetic experience. The more \"clubby\" albums have been separated into the substyle \"MIDTEMPO CYBERPUNK\".",
-        {},
+        {
+            "Cyberthing! - The Broken Connection": "",
+            "Cerebra - Failed Diplomacy": "",
+            "Daniel Deluxe - Ghostrunner": "",
+            "Cyberpriest - Villenoire": "",
+            "Extra Terra - Zion": "",
+            "Noisecream - Roboquest": "",
+            "Droidglow - Neon Inferno": "",
+            "Re_ii - Cybervoid Rise of the Rebellion": "",
+            "F.O.O.L - Machine": "",
+            "Neon Droid - Breach Protocol": "",
+            "Future Fate - Beyond Hyperdome": "",
+            "YM_IRR - Aeon City Stories 2023": "",
+            "Ray Gun Hero - Sectors": "",
+            "Thermal Noise - Awakenings": "",
+            "Chrome Skin - Domination": "https://open.spotify.com/album/06tsvBsAGAQ8896rssJVP6",
+            "Eternal Empire - From The Ashes": "",
+            "Megahit - Megacorp": "",
+            "Vector Seven - Vice Versa": "",
+            "Light4storm - Dystopian Tales": "",
+            "Castroe - Ekoh": "https://open.spotify.com/album/58QLiF4uKImRwEf9X4UCr6"
+        },
         "Midtempo Cyberpunk",
-        {}
+        {
+            "Celina - Origins": "https://open.spotify.com/album/51ASHIaXy0nLLcyQNZffWN",
+            "Kodeseven - Kodeseven": "https://open.spotify.com/album/50IKTsy6TOi9wYSjEqDgoB",
+            "Magnavolt - Motoko 2": "https://open.spotify.com/album/5sync6lv6mQQ63QlR3YIrW",
+            "Chris Keya - Alternate Realms": "https://diskonektmusiclabel.bandcamp.com/album/chris-keya-alternate-realms",
+            "Void Stare - Urban War Pigs": "",
+            "Starfarer - The Dark": "",
+            "Powernerd & Call Me Sleeper - Judges": ""
+        }
     ],
     "Cyber metal": [
         "The intersection of Cybersynth and Cyberpunk with various styles of metal. These bands also bring influences from classical (Master Boot Record), chiptune (Master Boot Record, Techno Mage, Shredder 1984, Danimal Cannon), djent (The Algorithm), dark electro (Sirus, Ogezor), aggrotech (Sirus), soundtracks (Electromancer, Ogezor), etc.",
-        {}
+        {
+            "Master Boot Record - Hardwarez": "",
+            "Techno Mage - Hexproof": "",
+            "The Algorithm - Data Renaissance": "",
+            "Shredder 1984 - Dystopian Future": "",
+            "Electromancer - Enforcer": "",
+            "Net-Ruiner - Prototype": "",
+            "The Bionic Protector - Maximum Damage": "",
+            "UltraKiller - The Future is Now": "",
+            "Nobandwidth - Hard Reboot": "https://open.spotify.com/album/2hvezF6kFRWc8UoI4kJIDF",
+            "Hubrid - Prototype": "",
+            "HexenThief - Where Zenith and Nadir Collide": "",
+            "Distant Reality - Cyborgs on Parade": "",
+            "Turbo Knight, Wevpon, Dimi Kaye - Cybersmith": "",
+            "Nevada Hardware - Split Scene": "",
+            "Void Chapter - The Uprising": "",
+            "Ogezor - Distortion Process": "https://open.spotify.com/album/6WxIhNz1TDmhI8f8j9p3ZY",
+            "Cellhavoc - Conqueror": "",
+            "Maraudeur - Robot Cult": "",
+            "Sirus - Citizens of Amazon": "",
+            "Teknomancer - Hexidecimal": "",
+            "Danimal Cannon - Massive": "https://open.spotify.com/album/2LKhq6Zkb4okkifFzpMTWh"
+        }
     ],
     "Noir": [
         "Music with a dark, bass heavy sound and minimal synthiness. This includes a variety of substyles including artists that produce mostly bangers (Acryl Madness, Forerunnerx), dark clubbing (Sierra, Revizia, Matteo Tura, Dreddd), melodic dark ambient (Silance, Cult of Neon), dark lounge (Starfounder). Some albums have been segregated into the substyles \"DARK CLUB\" (more EDM influence) and \"MIDTEMPO DARK CLUB\" (more EBSM influence).",
-        [],
+        {
+            "Acryl Madness - I'm Madness": "",
+            "Silance - Chimeras": "",
+            "DXVLAT - Decoy of Meanness": "https://open.spotify.com/album/2HE7d0awfHso6xOFRJE1JJ",
+            "Forerunnerx - Viscera": "",
+            "Zesloth - Arkatoria": "",
+            "Cult of Neon - Of Neon Cult": "",
+            "The Encounter - Bad Blood": "",
+            "Starfounder - Vengeance IV": "",
+            "Strngr - Human Error A": "",
+            "Into the Pale Abyss - Muderwave": "",
+            "Lyde - Augmentation": "",
+            "Covenout - Imperfect": "",
+            "NightmareOwl - Returnal": "https://open.spotify.com/album/4Wm8J8AbxPdVIM2TglbVTc"
+        },
         "Dark club",
-        [],
+        {
+            "Hantologic - Regard": "",
+            "Macrowave - Ultimatum": "",
+            "Leslie Nayoko - Humans Must Dance": "https://open.spotify.com/album/6k82uKkoSCgZjDQhiL95cE",
+            "Matte Blvck - Vows": "",
+            "Matteo Tura - Disobey Club": "https://open.spotify.com/album/1ACxV6pvuYFAyrqzwSupAN",
+            "Swarm - Eat Me Alive": "https://open.spotify.com/album/4VFGtcasDUCiZkXlqk0v4T"
+        },
         "Midtempo dark club",
-        []
+        {
+            "Voidnet - Living Hell": "",
+            "Revizia - Chronicles": "",
+            "Dreddd - Pain Deluxe": "",
+            "Sierra - Left Behind": "https://open.spotify.com/album/4j2ouRDWlmroMS1HqaHoTp",
+            "Yenmania - Genocide": "https://open.spotify.com/album/5prI2Mm1PIJMHqPfarqVg5",
+            "Moяis Blak - Femmes de L'Obscurité": "https://morisblak.bandcamp.com/album/femmes-de-lobscurit"
+        }
     ],
     "Industrial": [
         "Darksynth music heavily featuring elements and themes from various styles of industrial music.",
-        {}
+        {
+            "Perturbator - New Model": "",
+            "Fatum Black - Deployer": "",
+            "Chaos Vector - Sentinel": "",
+            "Sleepless Droids - I": "",
+            "Silicon Empire - New Paradigm": "",
+            "The Crucifix - Structure Origin": "",
+            "Vosto - The Digitizer": ""
+        }
     ],
     "Darksynth": [
         "Music that neither has the robotic sounds of Cybersynth nor the eerie sounds of Horrorsynth. This category of albums is simultaneously \"basic bitch Darksynth\" and also a hotbed of diverse sounds and styles. The albums that take Darksynth to its greatest extremes without integrating elements of extreme metal have been seperated as \"EXTREME DARKSYNTH\".",
-        {},
+        {
+            "Perturbator - The Uncanny Valley": "https://open.spotify.com/album/1P0XIILJzTc9SzkZe4QutA",
+            "Vulta - Sigils": "",
+            "NightStop - Streetwalker": "",
+            "Polybius - Apocalypse Prophecy": "",
+            "Zith - Zeitbrecher": "",
+            "Deadlife - Order from Chaos": "",
+            "Neoslave - Autoviolator": "",
+            "Rob Juggernaut - Total Warp": "",
+            "Halls of the Blind - Constructs": "",
+            "Jnny Cobra - Ze Luciferi Y'all": "",
+            "Favorit89 - X": "",
+            "RezzWick - Brutalizer": "",
+            "Maniac Lover - Vaccine": "https://open.spotify.com/album/1pbRUa2EMpFHYM8bXcd0ks",
+            "Lazerpunk - Death & Glory": ""
+        },
         "Extreme Darksynth",
-        {}
+        {
+            "King Stephen - Vanitas": "",
+            "Fixions - Requiem for the Serpents World": "",
+            "ALostCarolean - Undergrowth": "",
+            "GosT - Prophecy": "",
+            "Draven - Massacre Blood Club": "",
+            "Reznyck - Horrorgasmo": "",
+            "Savillian - Traversing the Void": ""
+        }
     ],
     "Horrorsynth": [
         "Darksynth that terrifies with haunting and eerie melodies. These albums distinguish themselves from the horror style of synthwave by going darker and heavier and dispensing with simplicity and repetitiveness. I would like to seperate some of these albums such as Lustful Sacraments into a goth category but there aren't enough of these so they stay here for now.",
-        {}
+        {
+            "We Are Magonia - The Living Will Envy the Dead": "",
+            "Draven - Abyssal Arcana": "",
+            "King Stephen - Of Monsters and Other Horror Stories": "",
+            "Ectoplague - Master Machine": "",
+            "Necromancer - WorldEater": "",
+            "Electric Dragon - Dark Water": "",
+            "SurgeryHead - Gates of Oblivion": "https://surgeryhead.bandcamp.com/album/gates-of-oblivion",
+            "GosT - Rites of Love and Reverence": "",
+            "Thy Night'85 - Noir": "https://open.spotify.com/album/25OeL64VNUO2ffiZtOAqJ2",
+            "Terrordyne - The Seventh Seal": "",
+            "Venturer - Eternal Damnation": "",
+            "Dark Circuitry - Ritual": "",
+            "Perturbator - Lustful Sacraments": "",
+            "Triptidon - Boulevard of Corruption": "",
+            "Chatterdemon - Chatterdemon": "",
+            "Sigilburner - Umbra": "",
+            "Hexenkraft - The Abyssal Saga": "",
+            "Strngr & Destryur - Night at the Grindhouse II": "",
+            "Grimlin - Dark Desires": "",
+            "Emmett Brown - Weird Science": "",
+            "Brood Machina - Death Rite Cabal": "https://open.spotify.com/album/1RjxgNtOEkVNE1fz0dxprC"
+        }
     ],
     "Metalsynth": [
         "Darksynth fused with extreme metal. Generally meaner and nastier than Cyber Metal, with dark themes such as demons, nightmares, cosmic horror and the apocalypse. Metalsynth combined with the sounds of classical music, choirs and traditional instruments to produce dark, Gothic music has been segregated into a \"GOTHIC\" subgenre. Intense, driving music combining Horrorsynth and Extreme Metal with murderous themes (stalking, slashing, killing) has been segregated as \"SLASHERWAVE\".",
-        {},
+        {
+            "Dav Dralleon - Godslayer": "",
+            "Gregorio Franco - Lamentations": "",
+            "Kick Puncher - Beyond": "",
+            "Elay Arson - Smoke": "",
+            "Connör - The Key of Death Minor": "",
+            "Birkhoff - Blood Wave": "",
+            "Gost - Valediction": "",
+            "Nanoverse - The Great Deception": "",
+            "Cffndrggr - Psychopath": "",
+            "Dreddd - Abandon All Hope": "",
+            "Pashang 爬上 - Lamentations of the Damned": "https://open.spotify.com/album/4vCdy4j8f8Lpl2bMIcfgcB",
+            "Cimmarian Music - Slayers": "",
+            "Grimlin - Monolith": "",
+            "VVOV - Pohja": "https://vvov.bandcamp.com/album/pohja",
+            "Gör FLsh - For The Kvlt": "",
+            "Carbon Killer - VR Sun": "https://open.spotify.com/album/5xghH5rPNd7qFssNmPvxM8",
+            "Hexenkraft - Permadeath": "https://open.spotify.com/album/5peYkb3yX4mvm2UNCvSdZP",
+            "Sunlight Defect - Final Drag to Hell": "https://open.spotify.com/album/4RA0h1bCOVzxjaFQCxNG8G",
+            "BlazerJacket - The Second": "",
+            "MacReady - Empire": "https://open.spotify.com/album/6PlLar5M1ZXY4wwn6IHLHL",
+            "Sentinel Complex - The Azoth Chronicles": "https://open.spotify.com/album/1OQVLyZn10hlDogCUvoA3Y"
+        },
         "Gothic",
-        {},
+        {
+            "Shredder 1984 - Doomsday Chronicles": "",
+            "Keygen Church - Nel Nome Del Codice": "",
+            "King Stephen - Kingdom": "",
+            "The Crucifix - Gothorum Aurora": "",
+            "Epochate - Chronicles of a New Era": "",
+            "Neo Film Opera - Daemon": "",
+            "Terminal Khaos Builders - Facing the Abyss": ""
+        },
         "Slasherwave",
-        {}
+        {
+            "NightStop - Dead Girls Don't Dance": "",
+            "Carpenter Brut - Leather Temple": "https://open.spotify.com/album/0Cxr3NtS1eloIc1xPQCWDw",
+            "Masked - Bloody Sweetheart": "",
+            "UltraKiller - Death Trap": "",
+            "Bodied By the Beat - Three Eyed Monster": "",
+            "Storm King - Sever the Hands": "https://lovecrypt.bandcamp.com/album/sever-the-hands",
+            "Wolftron - Darkness is Waiting": ""
+        }
     ],
     "Retrowave": [
         "Generally upbeat, emotional or high octane music that combines Synthwave and Darksynth with Hard Rock and 80's Heavy Metal. The subgenre \"HORRORWAVE\" is for Retrowave albums with horror themes and Horrorsynth influences.",
-        [],
+        {
+            "Jeremiah Kane - Ronin": "",
+            "Wolf and Raven - Lair of the Dragon": "",
+            "Retouch - Technocracy": "",
+            "Meteor - Prophets": "",
+            "Axion - Superior Firepower": "",
+            "Retröxx - Nirvana Pilot Yume": "",
+            "Strike Eagle - Operation Mjölnir": "https://open.spotify.com/album/5E0hi4KeubSBXtJzGqNOXE",
+            "Fury Weekend - Afterglow": "https://open.spotify.com/album/0OaczeKe0oiodJoM44rDXz",
+            "Biodrive - More Than 80's": "",
+            "Electric Dark Souls - Heroes": "",
+            "Neon Odin - Allfather": "",
+            "Charon Wyld - Give Me Infinity": "https://open.spotify.com/album/6VbqfbaE2EmuNY4F6Yeedm",
+            "Megatronix - Limitbreaker": "",
+            "The Abdukted - The Abdukted": ""
+        },
         "Horrorwave",
-        []
+        {
+            "Alienpyre - Scary Stories from the Past": "https://open.spotify.com/album/1TesfiZfGbtq2y6KtW0xNS",
+            "Dance With the Dead - Malombra": "https://open.spotify.com/album/0f4hKchtrh915Ob5U6NzEV",
+            "Midnight Danger - Nightmare Over Europe": "",
+            "Hoffman Cruise - Odyssey": "",
+            "Battlejuice - Fire & Blood": "",
+            "The Phantom Division - Dressed to Kill": "",
+            "Terror Syndrome - As Daylight Falls": "https://open.spotify.com/album/7Hx5ugRFxBdguedxmczOcy",
+            "Megahammer - Predation 2084": "https://open.spotify.com/album/38lh6MFA72H2kpiEtg3131",
+            "Arcadise - Empire of the Madness": "",
+            "Stieglitz - For the Love of the Living Dead": "",
+            "Skyfury - The Reveal": "",
+            "Starcourt - Terror in the Night": "",
+            "Dead By Dawn - Kiss of the Vampire": "",
+            "Rayne Reznor - Lizzie Reborn": ""
+        }
     ],
     "Spacesynth": [
         "Darksynth music that has tried to capture the sound of space exploration and battles with various techniques and styles. The albums that integrate guitars and elements of rock music have been segregated into the substyle \"SPACEWAVE\".",
-        [],
+        {
+            "Hollywood Burns - Invaders": "",
+            "Dynatron - Origins": "",
+            "Isidor - 3218": "",
+            "Aeronexus - Aeon Intergrade": "",
+            "Astral Tales - Raytracers": "",
+            "Powercyan - Powergrid": "",
+            "Shirobon - Warp": ""
+        },
         "Spacewave",
-        []
+        {
+            "Hollywood Burns - The Age of Saucers": "",
+            "RAN - Exopolis": "",
+            "Volkor X - The Loop": "",
+            "Profondo Delle Tenebre - The Expedition": "",
+            "Zombie Hyperdrive - Imperium": "",
+            "Pashang 爬上 - Void": "",
+            "Sad Alien - Cosmic Overdrive": "https://open.spotify.com/album/2XQMY2w3seZEmiiuXF2LSI",
+            "Gloom Influx - Twilight": "",
+            "Meteor - Voyage Into Fear": "",
+            "Dance With the Dead - Send the Signal": ""
+        }
     ]
 }

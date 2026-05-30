@@ -5,13 +5,14 @@
 
 @font-face {
     font-family: futura;
-    src: url("./assets/fonts/futura.otf");
+    src: url("./assets/fonts/futura.ttf");
 }
 
 * {
     padding: 0;
     margin: 0;
     font-size: 0;
+    font-family: sans-serif;
 }
 
 html {
@@ -28,7 +29,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 80px;
-    gap: 80px;
+    gap: 20px;
 }
 
 .column {
@@ -39,7 +40,7 @@ body {
 
 .subgenre {
     display: grid;
-    width: 2000px;
+    width: 2200px;
     grid-template-columns: 1460px 1fr;
     grid-template-rows: fit-content(80px) 1fr;
     gap: 20px;
@@ -69,7 +70,7 @@ body {
     justify-content: start;
     font-family: futura;
     color: #ffffff;
-    font-size: 16px;
+    font-size: 24px;
 }
 
 .content {
@@ -130,9 +131,10 @@ body {
 .titlesTitle {
     color: #ffffff;
     font-family: futura;
-    font-size: 20px;
-    height: 28px;
+    font-size: 32px;
+    height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
