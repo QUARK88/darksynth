@@ -16,7 +16,7 @@ async function loadSubgenres() {
             album.title = albumName
             album.href = albumLink
             album.target = "_blank"
-            album.style.backgroundImage = `url("./assets/covers/${albumName}.jpg")`
+            album.style.backgroundImage = `url("./assets/covers/${albumName}.webp")`
             albums.appendChild(album)
             let t = document.createElement("div")
             t.className = "titlesTitle"

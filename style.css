@@ -96,6 +96,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    content-visibility: auto;
 }
 
 .subtitle {
